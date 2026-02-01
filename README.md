@@ -46,7 +46,5 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 - 🏅 Built my first Profile README
 - 🚀 Started my Software Engineering journey
 
----
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer"/>
