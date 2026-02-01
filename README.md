@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header"/>
 
 # Hi 👋, I'm Rama Althobiti
 🎓 Junior Software Engineering Student  
@@ -29,4 +29,4 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNocGJtZmR5c2I4YW5mY3k5MGRzY3g5ZWxkYzY2cWg0Z3R3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="450"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
