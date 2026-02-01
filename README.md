@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rama Althobiti
 
 🎓 Junior Software Engineering Student  
-🌱 Currently learning **Java, JavaScript, and TypeScript**  
+🌱 Currently learning **Java, JavaScript, TypeScript, and C**
 ☁️ Interested in **Cloud Computing** and **Artificial Intelligence**  
 🚀 Passionate about learning step by step and improving every day  
 
@@ -13,10 +13,12 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 ---
 ## 🛠️ Skills & Technologies
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
 
 ---
 ## 📊 GitHub Stats
@@ -25,6 +27,13 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 ---
 ## 🌟 Projects
 - 🔹 [Learn Git With Pathy](https://github.com/ramaat-1/learn-git-with-pathy)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **rAlthobiti@outlook.com**
+- 🐦 X (Twitter): [@Ra_alt1](https://x.com/Ra_alt1)
+- 💼 LinkedIn: [Rama Althobiti](https://www.linkedin.com/in/rama-althobiti-915b9a3a1)
 
 ---
 
