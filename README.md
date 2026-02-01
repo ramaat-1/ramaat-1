@@ -23,6 +23,8 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 ---
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ramaat-1&show_icons=true&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaat-1&theme=tokyonight&hide_border=true" />
 
 ---
 ## 🌟 Projects
