@@ -29,4 +29,32 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 
 ---
 
+## 🧭 Learning Progress
+- 🟢 Git & GitHub — Beginner ✔️
+- 🟡 Java — In Progress
+- 🟡 JavaScript — In Progress
+- 🟡 TypeScript — In Progress
+- 🟠 C — In Progress
+- 🔵 Cloud Computing — Exploring
+- 🟣 Artificial Intelligence — Exploring
+
+---
+
+## 🏆 Achievements
+- ✅ Created my first GitHub repository
+- ✅ Pushed my first project to GitHub
+- 🏅 Built my first Profile README
+- 🚀 Started my Software Engineering journey
+
+---
+
+## 🎯 Current Challenges
+- 🧠 Solve at least **3 coding problems** per week
+- 📌 Make at least **3 commits** every week
+- ☁️ Learn Cloud fundamentals (one topic each week)
+- 🤖 Explore AI basics (one concept each week)
+
+---
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
