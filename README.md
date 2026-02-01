@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=140&section=header"/>
 
 # Hi 👋, I'm Rama Althobiti
 🎓 Junior Software Engineering Student  
@@ -48,13 +48,5 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 
 ---
 
-## 🎯 Current Challenges
-- 🧠 Solve at least **3 coding problems** per week
-- 📌 Make at least **3 commits** every week
-- ☁️ Learn Cloud fundamentals (one topic each week)
-- 🤖 Explore AI basics (one concept each week)
 
----
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer"/>
