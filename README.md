@@ -30,11 +30,4 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **rAlthobiti@outlook.com**
-- 🐦 X (Twitter): [@Ra_alt1](https://x.com/Ra_alt1)
-- 💼 LinkedIn: [Rama Althobiti](https://www.linkedin.com/in/rama-althobiti-915b9a3a1)
-
----
-
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2N5a2F0YmY3ZHYzNXZ3cHpkbHRrN2Q2bHdsbG01ZzN6cGQxYjZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
