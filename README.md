@@ -27,4 +27,4 @@ I enjoy exploring new technologies, building my skills gradually, and growing th
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNocGJtZmR5c2I4YW5mY3k5MGRzY3g5ZWxkYzY2cWg0Z3R3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="450"/>
