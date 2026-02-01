@@ -1,9 +1,9 @@
 # Hi 👋, I'm Rama Althobiti
-
 🎓 Junior Software Engineering Student  
-🌱 Currently learning **Java, JavaScript, TypeScript, and C**
-☁️ Interested in **Cloud Computing** and **Artificial Intelligence**  
-🚀 Passionate about learning step by step and improving every day  
+
+- 🌱 Currently learning **Java, JavaScript, TypeScript, and C**
+- ☁️ Interested in **Cloud Computing** and **Artificial Intelligence**  
+- 🚀 Passionate about learning step by step and improving every day  
 
 ---
 ## 👩‍💻 About Me
